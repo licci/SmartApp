@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_zMANwGcrEeO6_qjgk8uJMQ" name="model">
+  <packagedElement xmi:type="uml:Class" xmi:id="_2QeEUGcrEeO6_qjgk8uJMQ" clientDependency="_GPnzMGctEeO6_qjgk8uJMQ" name="UpdateMapLogic">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_KXHCcGcsEeO6_qjgk8uJMQ" name="Attribute2"/>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_Ur1akGcsEeO6_qjgk8uJMQ" name="operation1"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_Ibd1IGcsEeO6_qjgk8uJMQ" clientDependency="_ujBlkGctEeO6_qjgk8uJMQ" name="Class1"/>
+  <packagedElement xmi:type="uml:Dependency" xmi:id="_GPnzMGctEeO6_qjgk8uJMQ" name="Dependency1" client="_2QeEUGcrEeO6_qjgk8uJMQ" supplier="_Ibd1IGcsEeO6_qjgk8uJMQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_ujBlkGctEeO6_qjgk8uJMQ" name="Realization1" client="_Ibd1IGcsEeO6_qjgk8uJMQ" supplier="_2QeEUGcrEeO6_qjgk8uJMQ"/>
+</uml:Model>
